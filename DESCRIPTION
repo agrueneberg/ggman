@@ -7,7 +7,6 @@ Author: Veera M Rajagopal <veera.ipsych@gmail.com>
 Maintainer: Veera M Rajagopal <veera.ipsych@gmail.com>
 RoxygenNote: 5.0.1
 LazyData: true
-biocViews: Software,WholeGenome,GenomeWideAssociation,Visualization
 Depends:
 	R (>= 3.3),
 	ggplot2 (>= 2.0.0),
